@@ -1,0 +1,130 @@
+nav{
+    background-color: black;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    padding: 10px;
+    display: flex;
+    justify-content: end;
+    background:linear-gradient(#786767, #898765, #123469);
+}
+nav a{
+    color: white;
+    font-size: 18px;
+    padding-left: 40px;
+    font-weight: bolder;
+
+
+}
+img{
+    width: 200px;
+    margin-left: 270px;
+}
+
+
+.ten{
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    margin-left: 145px;
+    border: 2px solid black;
+    box-shadow: 0 0 5px 0;
+
+
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+    width: 100%;
+    margin-bottom: 0px;
+
+    
+    
+}
+h1{
+    margin-top: 50px;
+    padding-top: 50px;
+    color: black;
+    padding-bottom: 50px;
+    font-family: Arial;
+    padding-left: 20px;
+    font-family: 'Playfair Display', serif;
+
+
+}
+.nic1{
+    box-shadow: 0 0 5px 0;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;   
+
+    
+}
+.book-description{
+    display: flex;
+    align-items: stretch;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+
+}
+.item{
+    display: flex;
+    flex-direction: row;
+    
+}
+.name{
+    padding-left: 100px;
+}
+main{
+    width: 800px;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    box-shadow: 0 0 5px 0;
+    background:linear-gradient(#786767, #898765, #123469);
+    margin-left: 250px;
+    max-width: 500px;
+    min-width: 900px;
+
+    
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    background:linear-gradient(#786767, #898765, #123469);
+    
+}
+
+.icon {
+    display: flex;
+    justify-content: center; 
+    margin-top: 50px;
+ }
+.icon1 img{
+     width: 30px;
+     margin-left:3px;
+     margin-right:3px;
+     background-color: white;
+     margin-top: -35px;
+     padding: 7px;
+     clip-path: circle();
+     margin-bottom: 50px;
+    }
+.conten{
+margin-top: 50px;
+}
+p{
+    
+    font-family: 'Roboto', sans-serif;  
+
+}
