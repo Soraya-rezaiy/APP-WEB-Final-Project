@@ -22,7 +22,9 @@ nav a{
         color: black;
         padding-bottom: 50px;
         font-family: Arial;
-        padding-left: 20px;}
+        padding-left: 20px;
+         font-family: 'Playfair Display', serif;
+    }
 
 main{
       width: 800px;
